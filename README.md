@@ -6,6 +6,7 @@ Defying everything to pursue my passion and
 Choosing a social misfit career as Computer Science Engineer
 To become a Software Engineer & A first-generation entrepreneur.
 > “When you discover your mission, you will feel its demand. It will fill you with enthusiasm and a burning desire to get to work on it.” — W. Clement Stone
+
 ## How I Navigate in this Journey ?
 - [Developers Roadmaps - roadmap.sh](https://roadmap.sh/)
 is a community effort to create roadmaps, guides and other educational content to help guide the developers in picking up the path and guide their learnings.
