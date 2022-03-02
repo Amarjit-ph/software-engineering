@@ -1,3 +1,5 @@
+<img src="https://github.com/Amarjit-ph/Software-Engineering/blob/main/Images/Software%20Engineer.png" style="width:350px">
+
 # Software Engineering
 This repository is the documentation of my journey,
 Started from a small town called Imphal in the North-Eastern part of India,
@@ -11,3 +13,4 @@ To become a Software Engineer & A first-generation entrepreneur.
 - [Developers Roadmaps - roadmap.sh](https://roadmap.sh/)
 is a community effort to create roadmaps, guides and other educational content to help guide the developers in picking up the path and guide their learnings.
 - [System Design Interview Roadmap and Resources](https://medium.com/coderbyte/system-design-interview-roadmap-and-resources-e22d702b44da) How to prepare for System Design interviews?
+
