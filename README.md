@@ -13,8 +13,8 @@ To become a Software Engineer & A first-generation entrepreneur.
 - [Developers Roadmaps - roadmap.sh](https://roadmap.sh/)
 is a community effort to create roadmaps, guides and other educational content to help guide the developers in picking up the path and guide their learnings.
 - [System Design Interview Roadmap and Resources](https://medium.com/coderbyte/system-design-interview-roadmap-and-resources-e22d702b44da) Guide for System Design.
-## Starter Kit
-[Go Thinkster - Real world Application Starter Kit](https://github.com/gothinkster)
+## Repositories
+[Go Thinkster - Real world Application Starter Kit & Examples](https://github.com/gothinkster)
 
 ## FAQ
 **What is API (Applicaton Programming Interface) ?**<br><br>
