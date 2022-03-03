@@ -16,5 +16,9 @@ is a community effort to create roadmaps, guides and other educational content t
 
 ## FAQ
 
-**What is a SDK (Software Development Kit) ?**<br/>
-An SDK is just a pre-packaged set of code (for a specific language) that you don’t have to write yourself.Sometimes free and sometimes you have to, purchase them.There are all sorts of other SDKs out there including things like an SDK to simplify building a User Interface.The downside of the SDK is its size. It has many functionalities that one app might not use, also as SDK should be consistent over time, it should have the older versions which make them even larger over time. Also, as they run on our thread, they could have security issues, as well as malware. It is better to make a good document for API vs an SDK. But big companies like to create SDK to obscure data from developers. So never use an SDK unless it is open source.
+**What is a SDK (Software Development Kit) ?**<br/><br/>
+An SDK is just a pre-packaged set of code (for a specific language) that you don’t have to write yourself.Sometimes free and sometimes you have to, purchase them.There are all sorts of other SDKs out there including things like an SDK to simplify building a User Interface.
+
+The downside of the SDK is its size. It has many functionalities that one app might not use, also as SDK should be consistent over time, it should have the older versions which make them even larger over time. 
+
+Also, as they run on our thread, they could have security issues, as well as malware. It is better to make a good document for API vs an SDK. But big companies like to create SDK to obscure data from developers. So never use an SDK unless it is open source.
