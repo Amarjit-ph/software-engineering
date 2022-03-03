@@ -15,6 +15,8 @@ is a community effort to create roadmaps, guides and other educational content t
 - [System Design Interview Roadmap and Resources](https://medium.com/coderbyte/system-design-interview-roadmap-and-resources-e22d702b44da) Guide for System Design.
 
 ## FAQ
+**What is API (Applicaton Programming Interface) ?**<br><br>
+An application programming interface is a connection between computers or between computer programs. It is a type of software interface, offering a service to other pieces of software. A document or standard that describes how to build or use such a connection or interface is called an API specification.
 
 **What is a SDK (Software Development Kit) ?**<br/><br/>
 An SDK is just a pre-packaged set of code (for a specific language) that you don’t have to write yourself.Sometimes free and sometimes you have to, purchase them.There are all sorts of other SDKs out there including things like an SDK to simplify building a User Interface.
