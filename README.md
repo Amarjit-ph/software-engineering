@@ -18,9 +18,20 @@ is a community effort to create roadmaps, guides and other educational content t
 **What is API (Applicaton Programming Interface) ?**<br><br>
 An application programming interface is a connection between computers or between computer programs. It is a type of software interface, offering a service to other pieces of software. A document or standard that describes how to build or use such a connection or interface is called an API specification.
 
-**What is a SDK (Software Development Kit) ?**<br/><br/>
+**What is SDK (Software Development Kit) ?**<br/><br/>
 An SDK is just a pre-packaged set of code (for a specific language) that you don’t have to write yourself.Sometimes free and sometimes you have to, purchase them.There are all sorts of other SDKs out there including things like an SDK to simplify building a User Interface.
 
 The downside of the SDK is its size. It has many functionalities that one app might not use, also as SDK should be consistent over time, it should have the older versions which make them even larger over time. 
 
 Also, as they run on our thread, they could have security issues, as well as malware. It is better to make a good document for API vs an SDK. But big companies like to create SDK to obscure data from developers. So never use an SDK unless it is open source.
+
+**What is Framework ?**<br/><br/>
+A framework is a skeleton where the application defines the "meat" of the operation by filling out the skeleton. The skeleton still has code to link up the parts but the most important work is done by the application.
+
+*Examples of frameworks: Web application system, Plug-in manager, GUI system. The framework defines the concept but the application defines the fundamental functionality that end-users care about.*
+
+**What is Library ?**<br/><br/>
+A library performs specific, well-defined operations.
+
+*Examples of libraries: Network protocols, compression, image manipulation, string utilities, regular expression evaluation, math. Operations are self-contained.*
+
