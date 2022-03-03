@@ -28,6 +28,8 @@ Also, as they run on our thread, they could have security issues, as well as mal
 **What is Framework ?**<br/><br/>
 A framework is a skeleton where the application defines the "meat" of the operation by filling out the skeleton. The skeleton still has code to link up the parts but the most important work is done by the application.
 
+A framework inverts the control of the program. It tells the developer what they need.
+
 *Examples of frameworks: Web application system, Plug-in manager, GUI system. The framework defines the concept but the application defines the fundamental functionality that end-users care about.*
 
 **What is Library ?**<br/><br/>
