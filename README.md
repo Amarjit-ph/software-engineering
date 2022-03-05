@@ -25,12 +25,25 @@ To become a Software Engineer & A first-generation entrepreneur.
 - Icons and Photos For Everything - https://thenounproject.com/
 
 **ILLUSTRATION**<br>
-- Open source Illustration - https://undraw.co
+- Undraw Open source Illustration - https://undraw.co
 - Story set - https://storyset.com/
+- Icons8 - https://icons8.com/illustrations
+- Designs.AI - https://designs.ai/graphicmaker
+- DrawKit - https://www.drawkit.io/free
+- Free illustratious - https://freeillustrations.xyz/
+- Free Web illustrations - https://freewebillustrations.com/
+- Free Illustration - https://lukaszadam.com/illustrations
+- Vecteezy - https://www.vecteezy.com/free-vector/vector-illustration
+- Humaaans - https://www.humaaans.com/
+- Freebie Supply - https://freebiesupply.com/free-vector/
+- Absurd Illustratioin - https://absurd.design/
+- 0utlane - https://outlane.co/now/freebie-vector-potions-illustrations/
 
 **TEMPLATES**<br>
 - Bootstraps Templates - https://startbootstrap.com/
 
+**DESIGN RESOURCES**<br>
+- Interfacer - https://interfacer.xyz/
 
 ## FAQ
 **1.What is API (Applicaton Programming Interface) ?**<br><br>
