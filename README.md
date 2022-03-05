@@ -14,7 +14,8 @@ To become a Software Engineer & A first-generation entrepreneur.
 - System Design Interview Roadmap and Resources - https://medium.com/coderbyte/system-design-interview-roadmap-and-resources-e22d702b44da
 # Repositories ❤️
 - Go Thinkster - Real world Application Starter Kit & Examples - https://github.com/gothinkster
-
+# Tutorials 🎬
+- Design Patterns by Mosh - https://youtu.be/NU_1StN5Tkk
 # Resources 🦜 
 
 **ICONS**<br>
