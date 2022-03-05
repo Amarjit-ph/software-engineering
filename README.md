@@ -9,12 +9,28 @@ Choosing a social misfit career as Computer Science Engineer
 To become a Software Engineer & A first-generation entrepreneur.
 > “When you discover your mission, you will feel its demand. It will fill you with enthusiasm and a burning desire to get to work on it.” — W. Clement Stone
 
-## How I Navigate in this Journey ?
-- [Developers Roadmaps - roadmap.sh](https://roadmap.sh/)
-is a community effort to create roadmaps, guides and other educational content to help guide the developers in picking up the path and guide their learnings.
-- [System Design Interview Roadmap and Resources](https://medium.com/coderbyte/system-design-interview-roadmap-and-resources-e22d702b44da) Guide for System Design.
-## Repositories ❤️
-- [Go Thinkster - Real world Application Starter Kit & Examples](https://github.com/gothinkster)
+# How I Navigate in this Journey ?
+- Developers Roadmaps is a community effort to create roadmaps, guides and other educational content.- https://roadmap.sh/
+- System Design Interview Roadmap and Resources - https://medium.com/coderbyte/system-design-interview-roadmap-and-resources-e22d702b44da
+# Repositories ❤️
+- Go Thinkster - Real world Application Starter Kit & Examples - https://github.com/gothinkster
+
+# Resources 🦜 
+
+**ICONS**<br>
+- Icons- https://icon-icons.com
+- Logo Design - https://smashinglogo.com/en/
+- Iconscout - https://iconscout.com/
+- Open source icons - https://remixicon.com/
+- Icons and Photos For Everything - https://thenounproject.com/
+
+**ILLUSTRATION**<br>
+- Open source Illustration - https://undraw.co
+- Story set - https://storyset.com/
+
+**TEMPLATES**<br>
+- Bootstraps Templates - https://startbootstrap.com/
+
 
 ## FAQ
 **1.What is API (Applicaton Programming Interface) ?**<br><br>
