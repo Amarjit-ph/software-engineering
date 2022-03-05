@@ -9,7 +9,7 @@ Choosing a social misfit career as Computer Science Engineer
 To become a Software Engineer & A first-generation entrepreneur.
 > “When you discover your mission, you will feel its demand. It will fill you with enthusiasm and a burning desire to get to work on it.” — W. Clement Stone
 
-# How I Navigate in this Journey ?
+# How I Navigate in this Journey ? 🏃‍♀️
 - Developers Roadmaps is a community effort to create roadmaps, guides and other educational content.- https://roadmap.sh/
 - System Design Interview Roadmap and Resources - https://medium.com/coderbyte/system-design-interview-roadmap-and-resources-e22d702b44da
 # Repositories ❤️
@@ -45,7 +45,7 @@ To become a Software Engineer & A first-generation entrepreneur.
 **DESIGN RESOURCES**<br>
 - Interfacer - https://interfacer.xyz/
 
-## FAQ
+## FAQ 🙋‍♀️
 **1.What is API (Applicaton Programming Interface) ?**<br><br>
 An application programming interface is a connection between computers or between computer programs. It is a type of software interface, offering a service to other pieces of software. A document or standard that describes how to build or use such a connection or interface is called an API specification.
 
