@@ -37,7 +37,7 @@ To become a Software Engineer & A first-generation entrepreneur.
 - Humaaans - https://www.humaaans.com/
 - Freebie Supply - https://freebiesupply.com/free-vector/
 - Absurd Illustratioin - https://absurd.design/
-- 0utlane - https://outlane.co/now/freebie-vector-potions-illustrations/
+- Outlane - https://outlane.co/now/freebie-vector-potions-illustrations/
 
 **TEMPLATES**<br>
 - Bootstraps Templates - https://startbootstrap.com/
