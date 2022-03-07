@@ -12,10 +12,10 @@ To become a Software Engineer & A first-generation entrepreneur.
 # How I Navigate in this Journey ? 🏃‍♀️
 - Developers Roadmaps is a community effort to create roadmaps, guides and other educational content.- https://roadmap.sh/
 - System Design Interview Roadmap and Resources - https://medium.com/coderbyte/system-design-interview-roadmap-and-resources-e22d702b44da
-- 
+
 # Repositories ❤️
 - Go Thinkster - Real world Application Starter Kit & Examples - https://github.com/gothinkster
-- 
+
 # Youtube Channels 🎬
 - Fireship
 - Programming with Mosh 
