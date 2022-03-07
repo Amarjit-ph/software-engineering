@@ -33,7 +33,7 @@ To become a Software Engineer & A first-generation entrepreneur.
 
 # Software Development 🏗️
 - **Agile Software Development** - Agile is an iterative approach to project management and software development that helps teams deliver value to their customers faster and with fewer headaches. Instead of betting everything on a "big bang" launch, an agile team delivers work in small, but consumable, increments.
-- 
+
 # Version Control 🚀
 - **Git** is easy to learn and has a tiny footprint with lightning fast performance. It outclasses SCM tools like Subversion, CVS, Perforce, and ClearCase with features like cheap local branching, convenient staging areas, and multiple workflows. - https://git-scm.com/
 <img src="https://github.com/Amarjit-ph/Software-Engineering/blob/main/Images/Feature%20Branching.png">
