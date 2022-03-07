@@ -39,7 +39,7 @@ To become a Software Engineer & A first-generation entrepreneur.
 <img src="https://github.com/Amarjit-ph/Software-Engineering/blob/main/Images/Feature%20Branching.png">
 
 # Resources 🦜 
-**GRADIENTS FINDER**
+**GRADIENTS FINDER**<br>
 UIGradients- https://uigradients.com/#Maldives
 
 **ICONS**<br>
