@@ -17,15 +17,16 @@ To become a Software Engineer & A first-generation entrepreneur.
 - Go Thinkster - Real world Application Starter Kit & Examples - https://github.com/gothinkster
 
 # Developer Youtube Channels 🎬
-- Fireship
-- Programming with Mosh 
-- Eli the Computer Guy 
-- Web Dev Simplified 
-- Scott Hanselman 
-- FreeCodeCamp 
-- Traversy Media 
-- Coding Train 
-- LevelUpTuts 
+- Fireship - https://www.youtube.com/c/Fireship
+- Traversy Media - https://www.youtube.com/c/TraversyMedia
+- FreeCodeCamp - https://www.youtube.com/c/Freecodecamp
+- Programming with Mosh - https://www.youtube.com/c/programmingwithmosh
+- Web Dev Simplified - https://www.youtube.com/c/WebDevSimplified
+- Eli the Computer Guy - https://www.youtube.com/c/Elithecomputerguypage
+-
+- Scott Hanselman - https://www.youtube.com/c/shanselman
+- Coding Train - https://www.youtube.com/c/TheCodingTrain
+- LevelUpTuts - https://www.youtube.com/c/LevelUpTuts
 - Academind 
 - Florin Pop 
 - Net Ninja 
