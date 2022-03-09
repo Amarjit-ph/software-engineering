@@ -16,7 +16,7 @@ To become a Software Engineer & A first-generation entrepreneur.
 # Repositories ❤️
 - Go Thinkster - Real world Application Starter Kit & Examples - https://github.com/gothinkster
 
-# Youtube Channels 🎬
+# Developer Youtube Channels 🎬
 - Fireship
 - Programming with Mosh 
 - Eli the Computer Guy 
