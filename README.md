@@ -23,14 +23,9 @@ To become a Software Engineer & A first-generation entrepreneur.
 - Programming with Mosh - https://www.youtube.com/c/programmingwithmosh
 - Web Dev Simplified - https://www.youtube.com/c/WebDevSimplified
 - Eli the Computer Guy - https://www.youtube.com/c/Elithecomputerguypage
--
 - Scott Hanselman - https://www.youtube.com/c/shanselman
 - Coding Train - https://www.youtube.com/c/TheCodingTrain
 - LevelUpTuts - https://www.youtube.com/c/LevelUpTuts
-- Academind 
-- Florin Pop 
-- Net Ninja 
-- Edureka 
 
 # Software Development 🏗️
 - **Agile Software Development** - Agile is an iterative approach to project management and software development that helps teams deliver value to their customers faster and with fewer headaches. Instead of betting everything on a "big bang" launch, an agile team delivers work in small, but consumable, increments.
