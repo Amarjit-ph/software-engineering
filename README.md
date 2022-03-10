@@ -36,7 +36,7 @@ To become a Software Engineer & A first-generation entrepreneur.
 
 # Resources 🦜 
 **GRADIENTS FINDER**<br>
-UIGradients- https://uigradients.com/#Maldives
+- UIGradients- https://uigradients.com/#Maldives
 
 **ICONS**<br>
 - Icons- https://icon-icons.com
