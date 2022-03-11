@@ -16,6 +16,28 @@ To become a Software Engineer & A first-generation entrepreneur.
 # Repositories ❤️
 - Go Thinkster - Real world Application Starter Kit & Examples - https://github.com/gothinkster
 
+# Extensions
+LOOK & FEEL
+- Tinacious Design Theme
+- Bracket Pair Colorizer
+- Better Comments
+- Emoji
+
+UTLILTY
+- Psioniq File Header
+- Code Spell Checker
+- Error Lens
+- GitKraken Authentication
+- GitLens
+- Jira And Bitbucket
+- Todo Tree
+-Version Lens
+
+TOOL
+- Dart
+- Docker
+
+
 # Developer Youtube Channels 🎬
 - Fireship - https://www.youtube.com/c/Fireship
 - Traversy Media - https://www.youtube.com/c/TraversyMedia
