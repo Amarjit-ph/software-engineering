@@ -15,6 +15,10 @@ To become a Software Engineer & A first-generation entrepreneur.
 
 # Repositories ❤️
 - Go Thinkster - Real world Application Starter Kit & Examples - https://github.com/gothinkster
+LEARN
+- Coding Interview University - github.com/jwasham/coding-interview-university
+- Free-programming-books - github.com/EbookFoundation/free-programming-books
+
 
 # Extensions
 LOOK & FEEL
