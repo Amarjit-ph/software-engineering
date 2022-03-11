@@ -49,6 +49,9 @@ TOOL
 - Coding Train - https://www.youtube.com/c/TheCodingTrain
 - LevelUpTuts - https://www.youtube.com/c/LevelUpTuts
 
+# Developer Blogs
+- Tania Rascia - Full StackDeveloper - https://www.taniarascia.com/
+
 # Software Development 🏗️
 - **Agile Software Development** - Agile is an iterative approach to project management and software development that helps teams deliver value to their customers faster and with fewer headaches. Instead of betting everything on a "big bang" launch, an agile team delivers work in small, but consumable, increments.
 
