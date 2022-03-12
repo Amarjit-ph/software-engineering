@@ -27,6 +27,7 @@ LOOK & FEEL
 - Bracket Pair Colorizer
 - Better Comments
 - Emoji
+- Material Icon Theme
 
 UTLILTY
 - Psioniq File Header
