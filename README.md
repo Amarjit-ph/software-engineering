@@ -39,6 +39,7 @@ UTLILTY
 -Version Lens
 
 TOOL
+- Simple React Snippets
 - Dart
 - Flutter snippets
 - Docker
