@@ -33,7 +33,6 @@ UTLILTY
 - Psioniq File Header
 - Code Spell Checker
 - Error Lens
-- GitKraken Authentication
 - GitLens
 - Jira And Bitbucket
 - Todo Tree
