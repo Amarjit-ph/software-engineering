@@ -67,6 +67,8 @@ TOOL
 <img src="https://github.com/Amarjit-ph/Software-Engineering/blob/main/Images/Feature%20Branching.png">
 
 # Resources 🦜 
+**DESIGN RESOURCES FOR DEVELOPER - BRAD TRAVERSY**-https://github.com/bradtraversy/design-resources-for-developers
+
 **GRADIENTS FINDER**<br>
 - UIGradients- https://uigradients.com/#Maldives
 
