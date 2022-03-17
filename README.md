@@ -65,6 +65,15 @@ TOOL
 
 # Version Control 🚀
 - **Git** is easy to learn and has a tiny footprint with lightning fast performance. It outclasses SCM tools like Subversion, CVS, Perforce, and ClearCase with features like cheap local branching, convenient staging areas, and multiple workflows. - https://git-scm.com/
+
+```
+git config --global user.name "Your Name"
+git config --global user.email "youremail@yourdomain.com"
+
+Once done, you can confirm that the information is set by running:
+git config --list
+```
+
 <img src="https://github.com/Amarjit-ph/Software-Engineering/blob/main/Images/Feature%20Branching.png">
 
 # Resources 🦜 
