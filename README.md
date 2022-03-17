@@ -13,6 +13,12 @@ To become a Software Engineer & A first-generation entrepreneur.
 - Developers Roadmaps is a community effort to create roadmaps, guides and other educational content.- https://roadmap.sh/
 - System Design Interview Roadmap and Resources - https://medium.com/coderbyte/system-design-interview-roadmap-and-resources-e22d702b44da
 
+# Naming Convention
+- Pascal Case - PascalCase
+- Camel Case - camelCase
+- Snake Case - snake_case
+- Dash Case - dash-case
+
 # Repositories ❤️
 - Go Thinkster - Real world Application Starter Kit & Examples - https://github.com/gothinkster
 
