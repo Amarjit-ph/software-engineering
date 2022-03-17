@@ -42,6 +42,7 @@ TOOL
 - Simple React Snippets
 - Dart
 - Flutter snippets
+- Flutter
 - Docker
 
 
