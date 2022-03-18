@@ -42,7 +42,7 @@ UTLILTY
 - GitLens
 - Jira And Bitbucket
 - Todo Tree
--Version Lens
+- Version Lens
 
 TOOL
 - Simple React Snippets
