@@ -18,10 +18,10 @@ To become a Software Engineer & A first-generation entrepreneur.
 
 # Naming Convention
 
-- Pascal Case - `PascalCase`
-- Camel Case - `camelCase`
-- Snake Case - `snake_case`
-- Dash Case - `dash-case`
+- Pascal Case (PascalCase) - FILE NAME
+- Camel Case (camelCase) - REPOSITORY NAME/FILE NAME
+- Snake Case (snake_case) - VARIABLE NAME
+- Dash Case (dash-case) - CLASS NAME
 
 # Repositories ❤️
 
