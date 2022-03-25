@@ -29,8 +29,8 @@ To become a Software Engineer & A first-generation entrepreneur.
 
 LEARN
 
-- Coding Interview University - github.com/jwasham/coding-interview-university
-- Free-programming-books - github.com/EbookFoundation/free-programming-books
+- Coding Interview University - https://github.com/jwasham/coding-interview-university
+- Free-programming-books - https://github.com/EbookFoundation/free-programming-books
 
 # Extensions
 
