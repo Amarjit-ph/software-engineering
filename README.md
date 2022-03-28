@@ -189,3 +189,13 @@ NoSQL Database stands for a non-SQL database. NoSQL database doesn’t use table
 | It handles data in less volume.                   | It handles data in high volume.                    |
 | Transactions written in one location.             | Transactions written in many locations.            |
 | Deployed in vertical fashion.                     | Deployed in Horizontal fashion.                    |
+
+**6. What are microservices?**<br><br>
+Microservices - also known as the microservice architecture - is an architectural style that structures an application as a collection of services that are
+
+Highly maintainable and testable
+Loosely coupled
+Independently deployable
+Organized around business capabilities
+Owned by a small team
+The microservice architecture enables the rapid, frequent and reliable delivery of large, complex applications. It also enables an organization to evolve its technology stack.
