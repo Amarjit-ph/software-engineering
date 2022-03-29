@@ -27,6 +27,7 @@ To become a Software Engineer & A first-generation entrepreneur.
 
 - Go Thinkster - Real world Application Starter Kit & Examples - https://github.com/gothinkster
 - Design Resources for developers - https://github.com/bradtraversy/design-resources-for-developers
+
 LEARN
 
 - Coding Interview University - https://github.com/jwasham/coding-interview-university
