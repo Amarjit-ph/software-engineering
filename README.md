@@ -26,7 +26,7 @@ To become a Software Engineer & A first-generation entrepreneur.
 # Repositories ❤️
 
 - Go Thinkster - Real world Application Starter Kit & Examples - https://github.com/gothinkster
-
+- Design Resources for developers - https://github.com/bradtraversy/design-resources-for-developers
 LEARN
 
 - Coding Interview University - https://github.com/jwasham/coding-interview-university
@@ -109,8 +109,6 @@ git config --list
 <img src="https://github.com/Amarjit-ph/Software-Engineering/blob/main/Images/Feature%20Branching.png">
 
 # Resources 🦜
-
-**DESIGN RESOURCES FOR DEVELOPER - BRAD TRAVERSY**-https://github.com/bradtraversy/design-resources-for-developers
 
 **GRADIENTS FINDER**<br>
 
