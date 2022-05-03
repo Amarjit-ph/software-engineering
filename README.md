@@ -43,7 +43,7 @@ LOOK & FEEL
 - Emoji
 - Material Icon Theme
 
-UTLILTY
+UTILITY
 
 - Psioniq File Header
 - Code Spell Checker
