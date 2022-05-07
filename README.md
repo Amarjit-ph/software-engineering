@@ -16,6 +16,12 @@ To become a Software Engineer & A first-generation entrepreneur.
 - Developers Roadmaps is a community effort to create roadmaps, guides and other educational content.- https://roadmap.sh/
 - System Design Interview Roadmap and Resources - https://medium.com/coderbyte/system-design-interview-roadmap-and-resources-e22d702b44da
 
+# Software Development lifecycle
+This is my personal software development process that i followed in most of the project that i work. 
+
+
+<img src="https://github.com/Amarjit-ph/Amarjit-ph/blob/main/features-top-image.png">
+
 # Naming Convention
 
 - Pascal Case (PascalCase) - FILE NAME
