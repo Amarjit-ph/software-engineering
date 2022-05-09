@@ -17,7 +17,7 @@ To become a Software Engineer & A first-generation entrepreneur.
 - System Design Interview Roadmap and Resources - https://medium.com/coderbyte/system-design-interview-roadmap-and-resources-e22d702b44da
 
 # Software Development lifecycle
-This is my personal software development process that i followed in most of the project that i work. 
+This is my personal software development process that i followed in most of the project that i work with. 
 
 
 <img src="https://github.com/Amarjit-ph/Amarjit-ph/blob/main/features-top-image.png">
