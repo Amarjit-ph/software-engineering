@@ -202,4 +202,4 @@ Loosely coupled.
 Independently deployable.
 Organized around business capabilities.
 Owned by a small team.
-The microservice architecture enables the rapid, frequent and reliable delivery of large, complex applications. It also enables an organization to evolve its technology stack.
+The microservice architecture enables the rapid, frequent and reliable delivery of large, complex applications. It also enables an organization to evolve its technology stack..............
