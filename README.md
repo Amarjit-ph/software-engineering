@@ -206,9 +206,11 @@ The microservice architecture enables the rapid, frequent and reliable delivery 
 
 
 ## PRODUCTIVITY COUNTER
+W - WORK
+
 JUNE - NO LEARNING
-Day 1 
-Day 2
-Day 3
-Day 4
-Day 5
+Day 1 -W
+Day 2 -W
+Day 3 -W
+Day 4 -W
+Day 5 -W
