@@ -219,3 +219,5 @@ Day 4 -W
 Day 5 -W
 Day 6 -W -M
 Day 7 -W
+Day 8 -W
+Day 9 
