@@ -222,3 +222,4 @@ JUNE - NO LEARNING
 - Day 8 -W
 - Day 9 
 - Day 11 -W
+- Day 12 -W
