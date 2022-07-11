@@ -212,14 +212,13 @@ L - LEARNING
 P - PROJECT
 
 JUNE - NO LEARNING
-Day 1 -W
-Day 2 -W
-Day 3 -W
-Day 4 -W
-Day 5 -W
-Day 6 -W -M
-Day 7 -W
-Day 8 -W
-Day 9 
-
-Day 11
+- Day 1 -W
+- Day 2 -W
+- Day 3 -W
+- Day 4 -W
+- Day 5 -W
+- Day 6 -W -M
+- Day 7 -W
+- Day 8 -W
+- Day 9 
+- Day 11 -W
