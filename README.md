@@ -226,3 +226,5 @@ JUNE - NO LEARNING
 - Day 13 -W
 - Day 14 -W
 - Day 15 -W
+
+- Day 18 -W
