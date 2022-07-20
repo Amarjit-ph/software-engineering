@@ -226,5 +226,8 @@ JUNE - NO LEARNING
 - Day 13 -W
 - Day 14 -W
 - Day 15 -W
-
+- Weekend - 16
+- Weekend - 17
 - Day 18 -W
+- Day 19 -w
+- Day 20 -W
