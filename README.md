@@ -234,3 +234,4 @@ JUNE - NO LEARNING
 - Day 21 -W
 - Day 22 -W
 - Day 24 -W
+- Day 28
