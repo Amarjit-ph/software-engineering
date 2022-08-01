@@ -226,13 +226,18 @@ JUNE - NO LEARNING
 - Day 13 -W
 - Day 14 -W
 - Day 15 -W
-- Weekend - 16
-- Weekend - 17
+- Day 16 - Weekend
+- Day 17 - Weekend
 - Day 18 -W
 - Day 19 -w
 - Day 20 -W
 - Day 21 -W
 - Day 22 -W
 - Day 24 -W
-- Day 28
+- Day 28 -W
+- Day 29 - Weekend 
+- Day 30 - Weekend
 - Day 31 -W
+
+AUGUST 
+- Day 1 - W
