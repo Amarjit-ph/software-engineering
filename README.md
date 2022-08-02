@@ -241,3 +241,4 @@ JUNE - NO LEARNING
 
 AUGUST 
 - Day 1 - W
+- Day 2 - w
