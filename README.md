@@ -240,6 +240,7 @@ JUNE - NO LEARNING
 - Day 31 -W
 
 AUGUST 
-- Day 1 - W
-- Day 2 - w
-- Day 3 - w
+- Day 1 -W
+- Day 2 -W
+- Day 3 -W
+- Day 4 -W
