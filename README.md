@@ -244,3 +244,5 @@ AUGUST
 - Day 2 -W
 - Day 3 -W
 - Day 4 -W
+
+- Day 7 -
