@@ -212,14 +212,14 @@ L - LEARNING<br/>
 P - PROJECT<br/>
 
 JUNE - NO LEARNING
-- Day 1 -W
-- Day 2 -W
-- Day 3 -W
-- Day 4 -W
-- Day 5 -W
-- Day 6 -W -M
-- Day 7 -W
-- Day 8 -W
+- Day 1 -Work
+- Day 2 -Work
+- Day 3 -Work
+- Day 4 -Work
+- Day 5 -Work
+- Day 6 -Work -Managment
+- Day 7 -Work
+- Day 8 -Work
 - Day 9  
 - Day 11 -W
 - Day 12 -W
@@ -244,5 +244,7 @@ AUGUST
 - Day 2 -W
 - Day 3 -W
 - Day 4 -W
-
-- Day 7 -
+- Day 5
+- Day 6
+- Day 7
+- Day 8 -Work
