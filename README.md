@@ -248,3 +248,5 @@ AUGUST
 - Day 6
 - Day 7
 - Day 8 -Work
+- Day 9 -Work
+- Day 10 -Work
