@@ -212,6 +212,8 @@ L - LEARNING<br/>
 P - PROJECT<br/>
 
 JUNE - NO LEARNING
+
+JULY
 - Day 1 -Work
 - Day 2 -Work
 - Day 3 -Work
@@ -221,29 +223,29 @@ JUNE - NO LEARNING
 - Day 7 -Work
 - Day 8 -Work
 - Day 9  
-- Day 11 -W
-- Day 12 -W
-- Day 13 -W
-- Day 14 -W
-- Day 15 -W
-- Day 16 - Weekend
-- Day 17 - Weekend
-- Day 18 -W
-- Day 19 -w
-- Day 20 -W
-- Day 21 -W
-- Day 22 -W
-- Day 24 -W
-- Day 28 -W
-- Day 29 - Weekend 
-- Day 30 - Weekend
-- Day 31 -W
+- Day 11 -Work
+- Day 12 -Work
+- Day 13 -Work
+- Day 14 -Work
+- Day 15 -Work
+- Day 16 -Weekend
+- Day 17 -Weekend
+- Day 18 -Work
+- Day 19 -work
+- Day 20 -Work
+- Day 21 -Work
+- Day 22 -Work
+- Day 24 -Work
+- Day 28 -Work
+- Day 29 -Weekend 
+- Day 30 -Weekend
+- Day 31 -Work
 
 AUGUST 
-- Day 1 -W
-- Day 2 -W
-- Day 3 -W
-- Day 4 -W
+- Day 1 -Work
+- Day 2 -Work
+- Day 3 -Work
+- Day 4 -Work
 - Day 5
 - Day 6
 - Day 7
@@ -251,3 +253,4 @@ AUGUST
 - Day 9 -Work
 - Day 10 -Work
 - Day 11 -Work
+- Day 12 -Work
