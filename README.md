@@ -1,4 +1,4 @@
-<img src="https://github.com/Amarjit-ph/Software-Engineering/blob/main/Images/Software%20Engineer.png" style="width:350px">
+By<img src="https://github.com/Amarjit-ph/Software-Engineering/blob/main/Images/Software%20Engineer.png" style="width:350px">
 
 # Software Engineering
 
@@ -260,3 +260,5 @@ AUGUST
 - Day 16 -Work
 - Day 17 -Work
 - Day 18 -Work
+- Day 19 -Work
+- Day 20
