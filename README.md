@@ -272,4 +272,4 @@ AUGUST
 - Day 30 -
 - Day 31 -
 
-Day -
+Day 7
