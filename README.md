@@ -273,3 +273,4 @@ AUGUST
 - Day 31 -
 
 Day 7
+Day 8
