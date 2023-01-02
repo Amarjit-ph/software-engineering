@@ -205,5 +205,6 @@ Owned by a small team.
 The microservice architecture enables the rapid, frequent and reliable delivery of large, complex applications. It also enables an organization to evolve its technology stack.
 
 
-Day 1
-Day 2
+COUNTER
+- Day 1
+- Day 2
