@@ -204,8 +204,9 @@ Organized around business capabilities.
 Owned by a small team.
 The microservice architecture enables the rapid, frequent and reliable delivery of large, complex applications. It also enables an organization to evolve its technology stack.
 
-
 COUNTER
+6M
+
 - Day 1
 - Day 2
 - Day 3
