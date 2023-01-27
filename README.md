@@ -227,6 +227,6 @@ COUNTER
 - Day 20
 - Day 23
 - Day 24
-- Day 2
+- Day 25
 - Day 26
 - Day 27
