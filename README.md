@@ -1,4 +1,4 @@
-No<img src="https://github.com/Amarjit-ph/Software-Engineering/blob/main/Images/Software%20Engineer.png" style="width:350px">
+<img src="https://github.com/Amarjit-ph/Software-Engineering/blob/main/Images/Software%20Engineer.png" style="width:350px">
 
 # Software Engineering
 
