@@ -207,4 +207,5 @@ The microservice architecture enables the rapid, frequent and reliable delivery 
 COUNTER
 8M
 - Day 1
+- Day 2
 
