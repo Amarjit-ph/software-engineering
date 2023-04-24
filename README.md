@@ -155,29 +155,29 @@ git config --list
 
 ## FAQ 🙋‍♀️
 
-**1.What is API (Applicaton Programming Interface) ?**<br><br>
+### **1. What is API (Applicaton Programming Interface) ?**<br><br>
 An application programming interface is a connection between computers or between computer programs. It is a type of software interface, offering a service to other pieces of software. A document or standard that describes how to build or use such a connection or interface is called an API specification.
 
-**2.What is SDK (Software Development Kit) ?**<br/><br/>
+### **2. What is SDK (Software Development Kit) ?**<br/><br/>
 An SDK is just a pre-packaged set of code (for a specific language) that you don’t have to write yourself.Sometimes free and sometimes you have to, purchase them.There are all sorts of other SDKs out there including things like an SDK to simplify building a User Interface.
 
 The downside of the SDK is its size. It has many functionalities that one app might not use, also as SDK should be consistent over time, it should have the older versions which make them even larger over time.
 
 Also, as they run on our thread, they could have security issues, as well as malware. It is better to make a good document for API vs an SDK. But big companies like to create SDK to obscure data from developers. So never use an SDK unless it is open source.
 
-**3.What is Framework ?**<br/><br/>
+### **3. What is Framework ?**<br/><br/>
 A framework is a skeleton where the application defines the "meat" of the operation by filling out the skeleton. The skeleton still has code to link up the parts but the most important work is done by the application.
 
 A framework inverts the control of the program. It tells the developer what they need.
 
 _Examples of frameworks: Web application system, Plug-in manager, GUI system. The framework defines the concept but the application defines the fundamental functionality that end-users care about._
 
-**4.What is Library ?**<br/><br/>
+### **4. What is Library ?**<br/><br/>
 A library performs specific, well-defined operations.
 
 _Examples of libraries: Network protocols, compression, image manipulation, string utilities, regular expression evaluation, math. Operations are self-contained._
 
-**5.Difference between Relational & Non-Relational Databases**<br/><br/>
+### **5. Difference between Relational & Non-Relational Databases**<br/><br/>
 _1. Relational Database :_ RDBMS stands for Relational Database Management Systems. It is most popular database. In it, data is store in the form of row that is in the form of tuple. It contain numbers of table and data can be easily accessed because data is store in the table. This Model was proposed by E.F. Codd.
 
 _2. Non Relational (NoSQL) :_
@@ -195,7 +195,7 @@ NoSQL Database stands for a non-SQL database. NoSQL database doesn’t use table
 | Transactions written in one location.             | Transactions written in many locations.            |
 | Deployed in vertical fashion.                     | Deployed in Horizontal fashion.                    |
 
-**6. What are microservices?**<br><br>
+### **6. What are microservices?**<br><br>
 Microservices - also known as the microservice architecture - is an architectural style that structures an application as a collection of services that are
 - Highly maintainable and testable.
 Loosely coupled.
@@ -203,6 +203,53 @@ Independently deployable.
 Organized around business capabilities.
 Owned by a small team.
 The microservice architecture enables the rapid, frequent and reliable delivery of large, complex applications. It also enables an organization to evolve its technology stack.
+
+### **7. What is Entity-Attribute-Value (EAV) model ?**<br/><br/>
+The Entity-Attribute-Value (EAV) model is a data modeling approach used to represent complex and dynamic data structures. In this model, data is organized into three components: entities, attributes, and values.
+
+- Entities: These are objects or concepts that are being described in the model. Examples of entities could be customers, products, orders, or any other object of interest.
+- Attributes: These are characteristics or properties of the entities being described. Examples of attributes for a customer entity could be name, address, or email address.
+- Values: These are the specific values associated with each attribute for each entity. For example, for the customer entity, the name attribute may have the value "John Smith," while the address attribute may have the value "123 Main Street."
+The EAV model is useful in situations where there is a need for flexibility in data modeling, such as when dealing with data that has many optional attributes, or when the attributes of an entity can change frequently. However, it can also lead to complex queries and difficulty in maintaining data integrity. Therefore, it should be used judiciously and with careful consideration of the trade-offs involved.
+
+Here's an example of how an EAV model could be represented in a table format.
+
+Let's say we have a simple online store that sells books, and we want to store information about each book in our database. In a traditional database design, we would create a table with columns for each attribute of the book, such as title, author, publisher, ISBN, etc. However, in an EAV model, we would create three tables: one for entities, one for attributes, and one for values.
+
+Here are the tables we would create:
+
+Entity Table:
+
+| entity_id | entity_type | 
+|-----------|-------------|
+| 1         | Book        |
+| 2         | Book        |
+
+Attribute Table : 
+
+| attribute_id | attribute_name |
+|--------------|----------------|
+| 1            | Title          |
+| 2            | Author         |
+| 3            | Publisher      |
+| 4            | ISBN           |
+
+Enitity Table: 
+
+| entity_id | attribute_id | value                                    |
+|-----------|--------------|------------------------------------------|
+| 1         | 1            | Harry Potter and the Philosopher's Stone |
+| 1         | 2            | J.K. Rowling                             |
+| 1         | 3            | Bloomsbury Publishing                    |
+| 1         | 4            | 0747532699                               |
+| 2         | 1            | The Catcher in the Rye                   |
+| 2         | 2            | J.D. Salinger                            |
+| 2         | 3            | Little, Brown and Company                |
+| 2         | 4            | 0316769487                               |
+
+In this example, the Entity Table contains two rows representing two different books, each with a unique entity_id. The Attribute Table lists the different attributes we want to store for each book, such as title, author, publisher, and ISBN, each with a unique attribute_id. The Value Table contains rows for each combination of entity_id and attribute_id, along with the value associated with that combination.
+
+For instance, the first row in the Value Table tells us that for the book with entity_id 1, the title attribute has the value "Harry Potter and the Philosopher's Stone", the author attribute has the value "J.K. Rowling", the publisher attribute has the value "Bloomsbury Publishing", and the ISBN attribute has the value "0747532699". Similarly, the second row in the Value Table tells us that for the book with entity_id 2, the title attribute has the value "The Catcher in the Rye", the author attribute has the value "J.D. Salinger", the publisher attribute has the value "Little, Brown and Company", and the ISBN attribute has the value "0316769487".
 
 COUNTER
 9M
