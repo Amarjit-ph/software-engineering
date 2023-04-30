@@ -252,4 +252,4 @@ In this example, the Entity Table contains two rows representing two different b
 For instance, the first row in the Value Table tells us that for the book with entity_id 1, the title attribute has the value "Harry Potter and the Philosopher's Stone", the author attribute has the value "J.K. Rowling", the publisher attribute has the value "Bloomsbury Publishing", and the ISBN attribute has the value "0747532699". Similarly, the second row in the Value Table tells us that for the book with entity_id 2, the title attribute has the value "The Catcher in the Rye", the author attribute has the value "J.D. Salinger", the publisher attribute has the value "Little, Brown and Company", and the ISBN attribute has the value "0316769487".
 
 COUNTER
-11M
+11MM
