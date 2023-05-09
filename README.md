@@ -253,9 +253,10 @@ For instance, the first row in the Value Table tells us that for the book with e
 
 COUNTER
 11M
-1 Day
-2 Day
-3 Day
-6 Day
-8 Day
-9 Day
+
+- 1 Day
+- 2 Day
+- 3 Day
+- 6 Day
+- 8 Day
+- 9 Day
