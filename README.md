@@ -255,4 +255,5 @@ COUNTER
 12M
 
 - 1 Day
+- 2 Day
 
