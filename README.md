@@ -255,4 +255,5 @@ COUNTER
 14M
 
 - 1 Day
+- 2 Day
 
