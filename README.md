@@ -255,3 +255,4 @@ COUNTER
 15M
 
 - 1 Day
+- 2 Day
