@@ -3,11 +3,18 @@
 # Software Engineering
 
 This repository is the documentation of my journey,
+
 Started from a small town called Imphal in the North-Eastern part of India,
 Where getting a public job is the only goal & safest way to live a life,
 Defying everything to pursue my passion and
-Choosing a social misfit career as Computer Science Engineer
+Choosing a Social Misfit career as a Computer Science Engineer
 To become a Software Engineer & A first-generation entrepreneur.
+I completed high school in my city and moved to Chandigarh to pursue my passion
+and degree As a computer science engineer.
+
+Now Currently Staying in Banglore, India 
+Also, Known as the Silicon Valley of India working as a software engineer
+In a start-up that manages business Operations and Human resources
 
 > “When you discover your mission, you will feel its demand. It will fill you with enthusiasm and a burning desire to get to work on it.” — W. Clement Stone
 
