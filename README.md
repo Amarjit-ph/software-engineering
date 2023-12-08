@@ -264,4 +264,5 @@ COUNTER
 - 4 Day
 - 5 Day
 - 7 Day
+- 8 Day
 
