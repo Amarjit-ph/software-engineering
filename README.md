@@ -261,4 +261,5 @@ For instance, the first row in the Value Table tells us that for the book with e
 COUNTER
 20 M
 - 1 Day
+- 2 Day
 
