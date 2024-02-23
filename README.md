@@ -2,7 +2,7 @@
 
 # Software Engineering
 
-This repository is the documentation of my journey,
+This repository is my personal documentation of my journey of learning, best practices and conventions
 
 Started from a small town called Imphal in the North-Eastern part of India,
 Where getting a public job is the only goal & safest way to live a life,
