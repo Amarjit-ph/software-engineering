@@ -261,4 +261,5 @@ For instance, the first row in the Value Table tells us that for the book with e
 COUNTER
 23 M
 1 Day
-2 DAy
+2 Day
+3 Day
