@@ -12,9 +12,8 @@ To become a Software Engineer & A first-generation entrepreneur.
 I completed high school in my city and moved to Chandigarh to pursue my passion
 and degree As a computer science engineer.
 
-Now Currently Staying in Banglore, India 
-Also, Known as the Silicon Valley of India working as a software engineer
-In a start-up that manages business Operations and Human resources
+Currently working as a software engineer in Banglore, India 
+In a start-up that manages business Operations and Human resources globally.
 
 > “When you discover your mission, you will feel its demand. It will fill you with enthusiasm and a burning desire to get to work on it.” — W. Clement Stone
 
