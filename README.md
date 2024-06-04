@@ -258,32 +258,5 @@ In this example, the Entity Table contains two rows representing two different b
 For instance, the first row in the Value Table tells us that for the book with entity_id 1, the title attribute has the value "Harry Potter and the Philosopher's Stone", the author attribute has the value "J.K. Rowling", the publisher attribute has the value "Bloomsbury Publishing", and the ISBN attribute has the value "0747532699". Similarly, the second row in the Value Table tells us that for the book with entity_id 2, the title attribute has the value "The Catcher in the Rye", the author attribute has the value "J.D. Salinger", the publisher attribute has the value "Little, Brown and Company", and the ISBN attribute has the value "0316769487".
 
 COUNTER
-23 M
-- 1 Day
-- 2 Day
-- 3 Day
+24 M
 - 4 Day
-- 5 Day
-- 6 Day
-- 8 Day
-- 9 Day
-- 10 Day - 1
-- 11 Day - 2
-- 12 Day - 3
-- 13 Day - 4
-- 14 Day - 5
-- 15 Day - 6
-- 16 Day - 7
-- 17 Day - 8
-- 18 Day - 9
-- 19 Day - 10
-- 20 Day - 11
-- 21 Day - 12
-- 22 Day - 13
-- 23 Day - 14
-- 26 Day - 17
-- 27 Day - 18
-- 28 Day - 19
-- 29 Day - 20
-- 30 Day - 21
-- 31 Day - 22
