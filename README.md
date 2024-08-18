@@ -270,3 +270,4 @@ COUNTER
 - 14 Day
 - 15 Day
 - 16 Day
+- 18 Day
