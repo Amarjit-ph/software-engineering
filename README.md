@@ -26,7 +26,7 @@ In a start-up that manages business Operations and Human resources globally.
 This is my personal software development process that i followed in most of the project that i work with. 
 
 
-<img src="https://github.com/Amarjit-ph/Amarjit-ph/blob/main/features-top-image.png">
+<img src="./Images/features-top-image.png">
 
 # Naming Convention
 
