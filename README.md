@@ -28,12 +28,14 @@ This is my personal software development process that i followed in most of the 
 
 <img src="./Images/features-top-image.png">
 
-# Naming Convention
+# 📝 Naming Conventions
 
-- Pascal Case (PascalCase) - FILE NAME
-- Camel Case (camelCase) - REPOSITORY NAME/FILE NAME
-- Snake Case (snake_case) - VARIABLE NAME
-- Dash Case (dash-case) - CLASS NAME
+| Style | Use Case | Example |
+|-------|----------|---------|
+| PascalCase | File Names | `UserProfile.js` |
+| camelCase | Repository Names | `myProject` |
+| snake_case | Variable Names | `user_input` |
+| dash-case | Class Names | `header-container` |
 
 # Repositories ❤️
 
@@ -45,35 +47,34 @@ LEARN
 - Coding Interview University - https://github.com/jwasham/coding-interview-university
 - Free-programming-books - https://github.com/EbookFoundation/free-programming-books
 
-# Extensions
+# 🛠️ Essential VS Code Extensions
 
-LOOK & FEEL
+### Aesthetic
 
-- Tinacious Design Theme
-- Bracket Pair Colorizer
-- Better Comments
-- Emoji
-- Material Icon Theme
+- 🎨 Tinacious Design Theme
+- 🎯 Bracket Pair Colorizer
+- 💬 Better Comments
+- 😊 Emoji
+- 📁 Material Icon Theme
 
-UTILITY
+### Utility
 
-- Psioniq File Header
-- Code Spell Checker
-- Error Lens
-- GitLens
-- Jira And Bitbucket
-- Todo Tree
-- Version Lens
+- 📄 Psioniq File Header
+- ✔️ Code Spell Checker
+- 🔍 Error Lens
+- 📊 GitLens
+- 🎯 Jira And Bitbucket
+- 📝 Todo Tree
+- 🔄 Version Lens
 
-TOOL
+# 📺 Must-Follow Developer Channels
 
-- Simple React Snippets
-- Dart
-- Flutter snippets
-- Flutter
-- Docker
-
-# Developer Youtube Channels 🎬
+- [Fireship](https://www.youtube.com/c/Fireship) - Quick, practical tutorials
+- [Traversy Media](https://www.youtube.com/c/TraversyMedia) - Full-stack development
+- [FreeCodeCamp](https://www.youtube.com/c/Freecodecamp) - Comprehensive tutorials
+- [Web Dev Simplified](https://www.youtube.com/c/WebDevSimplified) - Web development concepts
+- [Scott Hanselman](https://www.youtube.com/c/shanselman) - Technology and coding
+</details>
 
 - Fireship - https://www.youtube.com/c/Fireship
 - Traversy Media - https://www.youtube.com/c/TraversyMedia
@@ -84,6 +85,7 @@ TOOL
 - Scott Hanselman - https://www.youtube.com/c/shanselman
 - Coding Train - https://www.youtube.com/c/TheCodingTrain
 - LevelUpTuts - https://www.youtube.com/c/LevelUpTuts
+
 
 # Developer Blogs
 
@@ -159,35 +161,94 @@ git config --list
 
 - Interfacer - https://interfacer.xyz/
 
-## FAQ 🙋‍♀️
+# 💡 Frequently Asked Questions
 
-### **1. What is API (Applicaton Programming Interface) ?**<br><br>
+<details>
+<summary><strong>1. What is an API (Application Programming Interface)?</strong></summary>
+
 An application programming interface is a connection between computers or between computer programs. It is a type of software interface, offering a service to other pieces of software. A document or standard that describes how to build or use such a connection or interface is called an API specification.
 
-### **2. What is SDK (Software Development Kit) ?**<br/><br/>
+#### Key Points:
+- Acts as a bridge between different computer programs
+- Provides a structured way to share data and functionality
+- Comes with detailed specifications for implementation
+</details>
+
+<details>
+<summary><strong>2. What is an SDK (Software Development Kit)?</strong></summary>
+
 An SDK is just a pre-packaged set of code (for a specific language) that you don’t have to write yourself.Sometimes free and sometimes you have to, purchase them.There are all sorts of other SDKs out there including things like an SDK to simplify building a User Interface.
 
-The downside of the SDK is its size. It has many functionalities that one app might not use, also as SDK should be consistent over time, it should have the older versions which make them even larger over time.
+#### Key Points:
+- Pre-built code for specific programming languages
+- Can be free or paid
+- Potential downsides:
+  - Large file sizes
+  - May include unused functionality
+  - Potential security risks
+  
+#### Best Practice:
+> 💡 Prefer open-source SDKs when possible for better security and transparency
+</details>
 
-Also, as they run on our thread, they could have security issues, as well as malware. It is better to make a good document for API vs an SDK. But big companies like to create SDK to obscure data from developers. So never use an SDK unless it is open source.
+<details>
+<summary><strong>3. What is a Framework?</strong></summary>
 
-### **3. What is Framework ?**<br/><br/>
 A framework is a skeleton where the application defines the "meat" of the operation by filling out the skeleton. The skeleton still has code to link up the parts but the most important work is done by the application.
 
 A framework inverts the control of the program. It tells the developer what they need.
 
 _Examples of frameworks: Web application system, Plug-in manager, GUI system. The framework defines the concept but the application defines the fundamental functionality that end-users care about._
 
-### **4. What is Library ?**<br/><br/>
-A library performs specific, well-defined operations.
+#### Key Points:
+- Provides basic architecture
+- Controls program flow
+- Examples:
+  - Web application systems
+  - Plugin managers
+  - GUI systems
+  
+#### Key Characteristic:
+> 💡 Frameworks follow the "inversion of control" principle - they call your code, rather than you calling them
+</details>
 
-_Examples of libraries: Network protocols, compression, image manipulation, string utilities, regular expression evaluation, math. Operations are self-contained._
+<details>
+<summary><strong>4. What is a Library?</strong></summary>
 
-### **5. Difference between Relational & Non-Relational Databases**<br/><br/>
-_1. Relational Database :_ RDBMS stands for Relational Database Management Systems. It is most popular database. In it, data is store in the form of row that is in the form of tuple. It contain numbers of table and data can be easily accessed because data is store in the table. This Model was proposed by E.F. Codd.
+**TL;DR:** A collection of pre-written code for specific operations.
 
-_2. Non Relational (NoSQL) :_
+#### Common Examples:
+- Network protocols
+- Compression utilities
+- Image manipulation
+- String utilities
+- Math operations
+
+#### Key Characteristic:
+> 💡 Libraries are called by your code, giving you more control over program flow
+</details>
+
+<details>
+<summary><strong>5. Relational vs Non-Relational Databases</strong></summary>
+
+
+
+1. Relational Database : RDBMS stands for Relational Database Management Systems. It is most popular database. In it, data is store in the form of row that is in the form of tuple. It contain numbers of table and data can be easily accessed because data is store in the table. This Model was proposed by E.F. Codd.
+
+2. Non Relational (NoSQL) :
 NoSQL Database stands for a non-SQL database. NoSQL database doesn’t use table to store the data like relational database. It is used for storing and fetching the data in database and generally used to store the large amount of data. It supports query language and provides better performance.
+
+#### Quick Comparison:
+
+| Feature | Relational (SQL) | Non-Relational (NoSQL) |
+|---------|------------------|------------------------|
+| Data Velocity | Low | High |
+| Scalability | Read-only | Read & Write |
+| Data Type | Structured | Any |
+| Reliability | Single point of failure | No single point of failure |
+| Deployment | Vertical | Horizontal |
+
+#### Extended Comparison:
 
 | **Relational Database**                           | **NoSQL**                                          |
 | ------------------------------------------------- | -------------------------------------------------- |
@@ -201,16 +262,28 @@ NoSQL Database stands for a non-SQL database. NoSQL database doesn’t use table
 | Transactions written in one location.             | Transactions written in many locations.            |
 | Deployed in vertical fashion.                     | Deployed in Horizontal fashion.                    |
 
-### **6. What are microservices?**<br><br>
-Microservices - also known as the microservice architecture - is an architectural style that structures an application as a collection of services that are
-- Highly maintainable and testable.
-Loosely coupled.
-Independently deployable.
-Organized around business capabilities.
-Owned by a small team.
-The microservice architecture enables the rapid, frequent and reliable delivery of large, complex applications. It also enables an organization to evolve its technology stack.
 
-### **7. What is Entity-Attribute-Value (EAV) model ?**<br/><br/>
+</details>
+
+<details>
+<summary><strong>6. What are Microservices?</strong></summary>
+
+An architectural approach where applications are built as a collection of small, independent services.
+
+#### Key Characteristics:
+- ✅ Highly maintainable and testable
+- 🔄 Loosely coupled
+- 🚀 Independently deployable
+- 💼 Business-oriented
+- 👥 Managed by small teams
+
+#### Benefits:
+> 💡 Enables rapid delivery and easy technology stack evolution
+</details>
+
+<details>
+<summary><strong>7. What is the Entity-Attribute-Value (EAV) Model?</strong></summary>
+
 The Entity-Attribute-Value (EAV) model is a data modeling approach used to represent complex and dynamic data structures. In this model, data is organized into three components: entities, attributes, and values.
 
 - Entities: These are objects or concepts that are being described in the model. Examples of entities could be customers, products, orders, or any other object of interest.
@@ -224,14 +297,14 @@ Let's say we have a simple online store that sells books, and we want to store i
 
 Here are the tables we would create:
 
-Entity Table:
+#### Entity Table:
 
 | entity_id | entity_type | 
 |-----------|-------------|
 | 1         | Book        |
 | 2         | Book        |
 
-Attribute Table : 
+#### Attribute Table : 
 
 | attribute_id | attribute_name |
 |--------------|----------------|
@@ -240,7 +313,7 @@ Attribute Table :
 | 3            | Publisher      |
 | 4            | ISBN           |
 
-Enitity Table: 
+#### Enitity Table: 
 
 | entity_id | attribute_id | value                                    |
 |-----------|--------------|------------------------------------------|
@@ -256,6 +329,8 @@ Enitity Table:
 In this example, the Entity Table contains two rows representing two different books, each with a unique entity_id. The Attribute Table lists the different attributes we want to store for each book, such as title, author, publisher, and ISBN, each with a unique attribute_id. The Value Table contains rows for each combination of entity_id and attribute_id, along with the value associated with that combination.
 
 For instance, the first row in the Value Table tells us that for the book with entity_id 1, the title attribute has the value "Harry Potter and the Philosopher's Stone", the author attribute has the value "J.K. Rowling", the publisher attribute has the value "Bloomsbury Publishing", and the ISBN attribute has the value "0747532699". Similarly, the second row in the Value Table tells us that for the book with entity_id 2, the title attribute has the value "The Catcher in the Rye", the author attribute has the value "J.D. Salinger", the publisher attribute has the value "Little, Brown and Company", and the ISBN attribute has the value "0316769487".
+
+</details>
 
 COUNTER
 28 M
