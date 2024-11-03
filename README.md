@@ -333,7 +333,8 @@ For instance, the first row in the Value Table tells us that for the book with e
 </details>
 
 COUNTER
-2 NOC
+2 NOV
+3 NOV
 28 M
 - 1 Day
 - 2 Day
