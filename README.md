@@ -335,7 +335,7 @@ For instance, the first row in the Value Table tells us that for the book with e
 COUNTER
 2 NOV
 3 NOV
-4
+4 NOV
 28 M
 - 1 Day
 - 2 Day
