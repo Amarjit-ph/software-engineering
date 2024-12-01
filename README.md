@@ -333,30 +333,5 @@ For instance, the first row in the Value Table tells us that for the book with e
 </details>
 
 COUNTER
-2 NOV
-3 NOV
-4 NOV
-5 NOV
-8 NOV
-10 NOV
-11 NOV
-12 NOV
-13 NOV
-14 NOV
-15 NOV
-16 NOV
-17 NOV
-18 NOV
-19 NOV
-20 NOV
-21 NOV
-22 NOV
-23 NOV
-24 NOV
-25 NOV
-26 NOV
-27 NOV
-28 NOV
-29 NOV
-
+2 DEC
 
