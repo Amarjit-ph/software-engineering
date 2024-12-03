@@ -335,4 +335,5 @@ For instance, the first row in the Value Table tells us that for the book with e
 COUNTER
 2 DEC
 3 DEC
+4 DEC
 
