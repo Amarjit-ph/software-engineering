@@ -2,20 +2,17 @@
 
 # Software Engineering
 
-This repository is my personal documentation of my journey of learning, best practices and conventions
+This repository is my documentation of my journey of learning, best practices and conventions
 
-Started from a small town called Imphal in the North-Eastern part of India,
-Where getting a public job is the only goal & safest way to live a life,
-Defying everything to pursue my passion and
-Choosing a Social Misfit career as a Computer Science Engineer
-To become a Software Engineer & A first-generation entrepreneur.
-I completed high school in my city and moved to Chandigarh to pursue my passion
-and degree As a computer science engineer.
-
-Currently working as a software engineer in Banglore, India 
-In a start-up that manages business Operations and Human resources globally.
+I grew up in Imphal, a small town in North-East India, where most people aim for government jobs as the safest career choice. But I decided to take a different path and follow my passion for technology, choosing a career as a Computer Science Engineer.
 
 > “When you discover your mission, you will feel its demand. It will fill you with enthusiasm and a burning desire to get to work on it.” — W. Clement Stone
+
+After finishing high school in my hometown, I moved to Chandigarh to study Computer Science and work toward my dream. This journey made me a first-generation entrepreneur and a software engineer driven to create meaningful solutions.
+
+Today, I work as a software engineer in Bengaluru, India, at a startup that helps businesses manage their operations and human resources globally.
+
+
 
 # How I Navigate in this Journey ? 🏃‍♀️
 
