@@ -329,14 +329,11 @@ For instance, the first row in the Value Table tells us that for the book with e
 
 </details>
 
-COUNTER
-2 DEC
-3 DEC
-4 DEC
-5 DEC
-7 DEC
-8 DEC
-9 DEC
-10 DEC
-11 DEC
+| Sun | Mon | Tue | Wed | Thu | Fri | Sat |
+|-----|-----|-----|-----|-----|-----|-----|
+| 1 | X | X | X | X | 6 | X |
+| X | X | X |**(X)**| 12 | 13 | 14 |
+| 15 | 16 | 17 | 18 | 19 | 20 | 21 |
+| 22 | 23 | 24 | 25 | 26 | 27 | 28 |
+| 29 | 30 | 31 | | | | |
 
