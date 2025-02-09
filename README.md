@@ -17,7 +17,6 @@ Today, I work as a software engineer in Bengaluru, India, at a startup that help
 # How I Navigate in this Journey ? 🏃‍♀️
 
 - Developers Roadmaps is a community effort to create roadmaps, guides and other educational content.- https://roadmap.sh/
-- System Design Interview Roadmap and Resources - https://medium.com/coderbyte/system-design-interview-roadmap-and-resources-e22d702b44da
 
 # Software Development lifecycle
 This is my personal software development process that i followed in most of the project that i work with. 
