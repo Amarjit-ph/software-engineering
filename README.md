@@ -335,6 +335,6 @@ For instance, the first row in the Value Table tells us that for the book with e
 |  X  |  X  |  X  |  X  |  X  |  X  |  X  |  
 |  X  |  X  | 11  |  X  | X   |  x  |  X  |  
 |  X  |  X  |  X  |  X  |  X  | X  | 22  |  
-|  X  | 24  | 25  | 26  | 27  | 28  |  
+|  X  |  X  | 25  | 26  | 27  | 28  |  
 
 
