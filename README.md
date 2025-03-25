@@ -330,26 +330,6 @@ For instance, the first row in the Value Table tells us that for the book with e
 
 # 2025 Calendar  
 
-## January 2025  
-
-| Sun | Mon | Tue | Wed | Thu | Fri | Sat |  
-|-----|-----|-----|-----|-----|-----|-----|  
-|     |     |  1  |  2  |  3  |  4  |  
-|  5  |  6  |  7  |  8  |  9  | 10  | 11  |  
-| 12  | 13  | 14  | 15  | 16  | 17  | 18  |  
-| 19  | 20  | 21  | 22  | 23  | 24  | 25  |  
-| 26  | 27  | 28  | 29  | 30  | 31  |     |  
-
-## February 2025  
-
-| Sun | Mon | Tue | Wed | Thu | Fri | Sat |  
-|-----|-----|-----|-----|-----|-----|-----|  
-|     |     |     |     |     |     |  1  |  
-|  2  |  3  |  4  |  5  |  6  |  7  |  8  |  
-|  9  | 10  | 11  | 12  | 13  | 14  | 15  |  
-| 16  | 17  | 18  | 19  | 20  | 21  | 22  |  
-| 23  | 24  | 25  | 26  | 27  | 28  |     |  
-
 ## March 2025  
 
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |  
@@ -358,7 +338,7 @@ For instance, the first row in the Value Table tells us that for the book with e
 |  X  |  X  |  X  |  5  |  X  |  X  |  8  |  
 |  X  |  X  |  X  | 12  |  X  | 14  | 15  |  
 | 16  |  X  | 18  | 19  |  X  | 21  | 22  |  
-| 23  | 24  | 25  | 26  | 27  | 28  | 29  |  
+| 23  | 24  |  X  | 26  | 27  | 28  | 29  |  
 | 30  | 31  |     |     |     |     |     |  
 
 ## April 2025  
