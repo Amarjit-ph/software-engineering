@@ -329,23 +329,12 @@ For instance, the first row in the Value Table tells us that for the book with e
 </details>
 
 # 2025 Calendar  
-
-## March 2025  
-
-| Sun | Mon | Tue | Wed | Thu | Fri | Sat |  
-|-----|-----|-----|-----|-----|-----|-----|  
-|     |     |     |     |     |     |  1  |  
-|  X  |  X  |  X  |  5  |  X  |  X  |  8  |  
-|  X  |  X  |  X  | 12  |  X  | 14  | 15  |  
-| 16  |  X  | 18  | 19  |  X  | 21  | 22  |  
-| 23  | 24  |  X  |  X  | 27  |  X  | 29  |  
-| 30  | 31  |     |     |     |     |     |  
-
+  
 ## April 2025  
 
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |  
 |-----|-----|-----|-----|-----|-----|-----|  
-|     |     |  1  |  2  |  3  |  4  |  5  |  
+|     |     |  1  |  X  |  3  |  4  |  5  |  
 |  6  |  7  |  8  |  9  | 10  | 11  | 12  |  
 | 13  | 14  | 15  | 16  | 17  | 18  | 19  |  
 | 20  | 21  | 22  | 23  | 24  | 25  | 26  |  
