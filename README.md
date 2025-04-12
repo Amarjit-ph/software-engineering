@@ -336,7 +336,7 @@ For instance, the first row in the Value Table tells us that for the book with e
 |-----|-----|-----|-----|-----|-----|-----|  
 |     |     |  1  |  X  |  X  |  X  |  5  |  
 |  6  |  X  |  8  |  9  |  X  |  X  |  X  |  
-| 13  | 14  | 15  | 16  | 17  | 18  | 19  |  
+|  X  | 14  | 15  | 16  | 17  | 18  | 19  |  
 | 20  | 21  | 22  | 23  | 24  | 25  | 26  |  
 | 27  | 28  | 29  | 30  |     |     |     |  
 
