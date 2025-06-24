@@ -347,8 +347,8 @@ For instance, the first row in the Value Table tells us that for the book with e
 |  1  |  X  |  X  |  X  |  X  |  X  |  7  |  
 |  8  |  9  |  X  |  X  |  X  | 13  | 14  |  
 | 15  |  X  |  X  | 18  | 19  |  X  | 21  |  
-| 22  |  X  |  X  | 25  | PF  | 27  | 28  |  
-| 29  | 30  |     |     |     |     |     |  
+| 22  |  X  |  X  | 25  |  *  | 27  | 28  |  
+| *   | 30  |     |     |     |     |     |  
 
 ## July 2025  
 
