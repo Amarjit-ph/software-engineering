@@ -368,7 +368,7 @@ For instance, the first row in the Value Table tells us that for the book with e
 |  X  |  4  |  X  |  X  |  X  |  8  |  9  |  
 | 10  | 11  |  X  | 13  | 14  | 15  | 16  |  
 |  X  |  X  |  X  | 20  | 21  |  X  | 23  |  
-| 24  | 25  | 26  | 27  | 28  | 29  | 30  |  
+| 24  | 25  |  X  | 27  | 28  | 29  | 30  |  
 | 31  |     |     |     |     |     |     |  
 
 ## September 2025  
