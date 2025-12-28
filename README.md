@@ -337,7 +337,7 @@ For instance, the first row in the Value Table tells us that for the book with e
 |  7  |  8  |  X  | X  | X  | X  | 13  |  
 | 14  | X  | 16  | 17  | X  | 19  | X  |  
 | 21  | X  | X  | 24  | X  | 26  | X  |  c
-| 28  | 29  | 30  | 31  |     |     |     |  
+|  X  | 29  | 30  | 31  |     |     |     |  
 
 
 The same format continues for **October, November, and December**. Let me know if you want the full set or any modifications! 😊
