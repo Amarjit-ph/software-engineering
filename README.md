@@ -333,7 +333,7 @@ For instance, the first row in the Value Table tells us that for the book with e
 
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |  
 |-----|-----|-----|-----|-----|-----|-----|  
-|     |  1  |  X  |  3  |  X  |  X  |  X  |  
+|     |  X  |  X  |  3  |  X  |  X  |  X  |  
 | 14  | X  | 16  | 17  | X  | 19  | X  |  
 | c  | X  | X  | b24  | X  | 26  | X  |  c
 |  X  | X  | X  | x  |     |     |     |  
