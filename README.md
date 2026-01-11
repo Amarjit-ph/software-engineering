@@ -331,7 +331,5 @@ For instance, the first row in the Value Table tells us that for the book with e
 # 2026 Calendar  
 ## January 2026
 
-| Sun | Mon | Tue | Wed | Thu | Fri | Sat |  
-|-----|-----|-----|-----|-----|-----|-----|  
 
 
