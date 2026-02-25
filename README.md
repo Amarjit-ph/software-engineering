@@ -348,7 +348,7 @@ For instance, the first row in the Value Table tells us that for the book with e
 | 2   |  X  | X   |  X  | 6   | X   | 8   |
 | 9   | X   |  X  |  X  | X   |  X  |  X  |
 | 16  | 17  |  X  |  X  |  X  | 21  |  X  |
-| 23  | 24  | 25  | 26  | 27  | 28  |     |
+| 23  | 24  | X  | 26  | 27  | 28  |     |
 
 ---
 
